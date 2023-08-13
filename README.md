@@ -1,6 +1,6 @@
 # GAS_Service_Test
 
-Creating the Project as gas_service
+Creating the Backend Code for gas_service
 
 creating a two app as 1-service_request 2-customer_support
 
